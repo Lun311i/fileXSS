@@ -1,4 +1,2 @@
-(function(){
-  alert(1);
-  return true;
-})
+alert(1);
+return true;

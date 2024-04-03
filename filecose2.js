@@ -1,2 +1,4 @@
-alert(1);
-return true;
+(function(){
+  alert(1);
+  return true;
+})
